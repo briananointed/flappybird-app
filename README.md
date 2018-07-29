@@ -3,8 +3,9 @@
 #### V 1.3
 #### By **Brian Wachira**
 ## Description
-The game uses flappybird concept from flappybird.io. You guide the bird is it adventures against human-made poles that have  filled up the city.
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+The game uses flappybird concept from flappybird.io.<br/> 
+<a href="flappybird.io" target="_blank"><img src="https://vignette.wikia.nocookie.net/petitcomputer/images/3/39/Flappy_bird_logo.png/revision/latest?cb=20140212022105" alt="flappy-bird" style="height: auto !important;width: auto !important;" ></a><br/>
+You guide the bird is it adventures against human-made poles that have  filled up the city.
 ## Setup/Installation Requirements
 * Copy the link from **clone or download** then on Android Studio go to **file-new-project from version control-github**. The url will automatically be pasted or you can manually do it. click **clone**.
 You can also download the zip file and unzip it in your preferred folder. Then on Android Studio go to **file-open-path to the unzipped project**
